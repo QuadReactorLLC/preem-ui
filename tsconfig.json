@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "jsx": "react-native",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "strict": true,
+      "target": "es5",
+      "esModuleInterop": true,
+      "skipLibCheck": true
+    }
+  }
