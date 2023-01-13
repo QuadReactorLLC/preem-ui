@@ -32,11 +32,7 @@ const theme: PreemTheme = {
 }
 
 export default function App() {
-    return (
-        <PreemThemeProvider theme={theme}>
-            {/* Rest of your app code */}
-        <PreemThemeProvider>
-    )
+  return <PreemThemeProvider theme={theme}>{/* Rest of your app code */}</PreemThemeProvider>
 }
 ```
 
