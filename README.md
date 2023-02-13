@@ -1,5 +1,7 @@
 # preem-ui
 
+[![npm](https://img.shields.io/npm/v/preem-ui.svg)](https://www.npmjs.com/package/preem-ui)
+
 UI components for React Native that support custom theming.
 
 ## Installation
